@@ -21,13 +21,13 @@ const Partners = () => {
           <img src={logo3} className="h-12 w-auto"/>
         </div>
         <div className="p-4">
-          <img src={logo4} className="h-12 w-auto"/>
-        </div>
-        <div className="p-4">
           <img src={logo5} className="h-12 w-auto"/>
         </div>
         <div className="p-4">
           <img src={logo6} className="h-12 w-auto"/>
+        </div>
+        <div className="p-4">
+          <img src={logo4} className="h-12 w-auto"/>
         </div>
       </div>
     </div>
