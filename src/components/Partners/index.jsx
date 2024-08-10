@@ -10,7 +10,7 @@ const Partners = () => {
   return (
     <div className="text-center py-8 bg-gradient-to-r from-red-50 via-gray-200 to-blue-50">
       <h2 className="text-2xl font-bold mb-4">Our Partners</h2>
-      <div className="flex flex-wrap justify-center gap-4 px-4">
+      <div className="hero-ads grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4 items-center justify-items-center px-4 sm:px-6 md:px-8 lg:px-10">
         <div className="p-4">
           <img src={logo1} className="h-12 w-auto"/>
         </div>
